@@ -5,6 +5,7 @@ MIDI events in C/C++ and plays SF2/SF3 sounds using
 [FluidSynth](https://github.com/FluidSynth/fluidsynth) via JNI (C language).
 
 Article (in Portuguese): [Criando um App Sintetizador MIDI para Android com Kotlin e C++](https://embarcados.com.br/criando-um-app-sintetizador-midi-para-android-com-kotlin-e-c/)
+English version: [Developing a MIDI Synthesizer App for Android Using Kotlin and C++](https://tinyurl.com/34vsycr3)
 
 ## License
 
